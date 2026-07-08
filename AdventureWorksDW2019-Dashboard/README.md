@@ -108,7 +108,6 @@ This project uses the Microsoft AdventureWorksDW2019 sample database.
 ## Thank You
 
 Thank you for taking the time to view this project.
-I appreciate any feedback or suggestions that could help me improve my work.
 
 
 I appreciate any feedback or suggestions that could help me improve my work.
