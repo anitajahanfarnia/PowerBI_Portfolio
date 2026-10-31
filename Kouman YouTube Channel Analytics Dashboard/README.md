@@ -14,3 +14,7 @@ Tools and Dashboard Features:
 - Persian Font Integration: Ensuring proper Persian text rendering and dashboard readability.
 - Hamburger Navigation Menu: Implemented using Page Navigation, Bookmarks, and the Selection Pane.
 The dashboard consists of two pages and provides insights into channel performance, video views and engagement, playlist performance, and estimated revenue
+
+Important Note⭐
+
+Estimated Revenue Analysis: Estimated video revenue calculated based on view counts and two assumed RPM scenarios: a pessimistic scenario with an RPM of $0.5 and an optimistic scenario with an RPM of $3 per 1,000 views
