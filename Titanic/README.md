@@ -18,7 +18,7 @@ The dashboard includes four cards:
 - **Number Of Deaths** – shows the total number of passengers who did not survive. This measure was created using DAX.
 - **Number Of Survivors** – shows the total number of surviving passengers.
 
-### Top 7 Passengers With Highest Fare
+### Top 10 Passengers With Highest Fare
 
 The first column chart shows:
 
